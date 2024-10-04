@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Neerajbagauli
 - 👀 I’m interested in football
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 
+- 📫 www.linkedin.com/in/neeraj-bagauli-040684269
 
 <!---
 Neerajbagauli/Neerajbagauli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
